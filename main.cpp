@@ -1,4 +1,6 @@
 #include <iostream>
+#include <ostream>
+#include <type_traits>
 
 using namespace std;
 
